@@ -1,0 +1,15 @@
+.course {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.course-title {
+  margin: 0;
+}
+
+.course-details {
+    display: none;
+    margin-top: 10px;
+  }
